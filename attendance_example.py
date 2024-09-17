@@ -1,6 +1,6 @@
 #%%
 # create a list of all the students 
-student_list = ['Beckael','Biruk','Nahili','Keti','Abel','Sifan','Freja','Debora','Yohanna','Kaleab']
+student_list = ['Beckael','Biruk','Nahili','Keti','Abel','Sifan','Freja','Debora','Yohanna','Kaleab','Andreas']
 present = []
 absent = []
 
@@ -15,6 +15,6 @@ for name in student_list:
     else:
         print('Invalid input, please try again')        
            
-
+# print attendees and absentees
 print('Attendees: '+ str(present))
 print('Absentees: '+ str(absent))
