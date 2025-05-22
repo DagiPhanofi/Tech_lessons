@@ -1,6 +1,6 @@
 #%%
 # create a list of all the students 
-student_list = ['Beckael','Biruk','Nahili','Keti','Abel','Sifan','Freja','Debora','Yohanna','Kaleab','Andreas','Rbika']
+student_list = ['Beckael','Biruk','Nahili','Keti','Sifan','Freja','Debora','Yohanna','Kaleab','Andreas']
 present = []
 absent = []
 
